@@ -6,4 +6,16 @@ A system that automatically classifies the recipe (example French, Italian, etc.
 
 # Dependencies
 
-Jupyter Notebook - Anaconda Environment - https://www.anaconda.com/distribution/ 
+ * Jupyter Notebook - Anaconda Environment - https://www.anaconda.com/distribution/
+ * Python packages - a pip install with all names below wil do good
+    * pandas
+    * numpy
+    * sklearn
+    * bokeh
+    * re , base64 , pdb
+    * matploylib.pyplot
+    * collections
+
+# How to work
+
+Once dependencies are installed open the
