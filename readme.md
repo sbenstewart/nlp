@@ -29,3 +29,7 @@ Once dependencies are installed open the code.ipynb file in jupyter and run the 
 * Ingredient extraction part - this has 2 parts
   * first part is identifying the main part of the ingredient (pepper,flour etc..)
   * second part is to extract additional info about the ingredient used . This is done by assigning weights to the words near to the ingredient identified (sort of a n - gram problem ) and identifying the adjunct (noun describer) that is used in the sentence (NLU).
+
+
+
+###### Have a nice day :) 
