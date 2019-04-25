@@ -32,4 +32,4 @@ Once dependencies are installed open the code.ipynb file in jupyter and run the 
 
 
 
-###### Have a nice day :)
+<b> Have a great day :)</b>
